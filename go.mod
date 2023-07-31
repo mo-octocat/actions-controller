@@ -7,7 +7,7 @@ require (
 	github.com/go-git/go-billy/v5 v5.4.1
 	github.com/go-git/go-git/v5 v5.6.1
 	github.com/go-playground/validator v9.31.0+incompatible
-	github.com/go-playground/webhooks/v6 v6.1.0
+	github.com/go-playground/webhooks/v6 v6.2.0
 	github.com/google/go-github/v50 v50.2.0
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.16.0
